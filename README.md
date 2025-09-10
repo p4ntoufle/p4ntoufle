@@ -4,10 +4,10 @@
 
 ## 𔓘 HI I'M LOUIS! 𔓘
 ### ✎ᝰ. he/him | FR/EN  
-I discovered programming a few years ago with small projects i'll never show in my life  
-I'm opened to any project as long as I would like collaboring in and learn from them  
+<p>I discovered programming a few years ago with small projects i'll never show in my life<p/> 
+<p>I'm opened to any project as long as I would like collaboring in and learn from them<p/>  
 
-<sup><sup>pls not too much java<sup/><sup/>
+<p><sup><sup>pls not too much java<sup/><sup/><p/>
 
 ---
 
