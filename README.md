@@ -1,4 +1,4 @@
-![Banner2](https://i.imgur.com/21SGyAJ.jpeg)
+![Banner](https://imgur.com/R7sTrNC.jpeg)
 
 ---
 
@@ -18,4 +18,4 @@
 
 ---
 
-![Banner](https://gepig.com/game_cover_bg_1190w/4008.jpg)
+![Banner2](https://i.imgur.com/21SGyAJ.jpeg)
